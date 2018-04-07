@@ -11,11 +11,7 @@ author: xXSirButterXx/xXSirGamesXx
 website: http://github.com/xXSirGamesXx
 main: SkyBlock\Main
 version: "0.1.7"
-api:
-- 3.0.0-ALPHA4
-- 3.0.0-ALPH5
-- 3.0.0-ALPHA6
-- 3.0.0-ALPHA7
+api: [3.0.0-ALPHA11]
 commands:
  chatlogin:
   aliases: [sb]
