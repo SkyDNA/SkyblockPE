@@ -1,0 +1,6 @@
+name: SkyblockPE
+api: 3.0.0-ALPHA11
+version: 0.1.7
+author: xXSirButterXx xXSirGamesXx
+main: SkyblockPE\Main
+description: SkyblockPE
